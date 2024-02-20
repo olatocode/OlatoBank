@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\OlatoBank\bin\Debug\net8.0\OlatoBank.exe
+C:\Users\Hp\Desktop\OlatoBank\bin\Debug\net8.0\OlatoBank.deps.json
+C:\Users\Hp\Desktop\OlatoBank\bin\Debug\net8.0\OlatoBank.runtimeconfig.json
+C:\Users\Hp\Desktop\OlatoBank\bin\Debug\net8.0\OlatoBank.dll
+C:\Users\Hp\Desktop\OlatoBank\bin\Debug\net8.0\OlatoBank.pdb
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.AssemblyInfo.cs
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.dll
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\refint\OlatoBank.dll
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.pdb
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.genruntimeconfig.cache
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\ref\OlatoBank.dll
