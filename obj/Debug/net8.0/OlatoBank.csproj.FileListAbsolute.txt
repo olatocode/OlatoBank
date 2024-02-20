@@ -12,3 +12,4 @@ C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\refint\OlatoBank.dll
 C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.pdb
 C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.genruntimeconfig.cache
 C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\ref\OlatoBank.dll
+C:\Users\Hp\Desktop\OlatoBank\obj\Debug\net8.0\OlatoBank.sourcelink.json
