@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlatoBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e596c4278a3188c756f07b9e635fd73e82365dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcbbb03814c70024927129206e771028e219082c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlatoBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlatoBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
